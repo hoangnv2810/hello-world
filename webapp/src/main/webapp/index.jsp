@@ -50,7 +50,7 @@
       <p>Already have an account? <a href="#">Sign in</a>.</p>
     </div>
 
-    <h1 class="thankyouforwatching">Thankyou, Happy Learning</h1>
+    <h1 class="thankyouforwatching">Thankyou, Happy Learning ABC</h1>
   </form>
 </body>
 </html>
